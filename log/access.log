@@ -1,0 +1,7 @@
+73.119.118.74 - - [06/Nov/2018:03:07:24 +0000] "GET / HTTP/1.1" 200 587 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36"
+73.119.118.74 - - [06/Nov/2018:03:07:24 +0000] "GET /icons/blank.gif HTTP/1.1" 200 431 "http://jeremywbarr.com/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36"
+73.119.118.74 - - [06/Nov/2018:03:07:24 +0000] "GET /favicon.ico HTTP/1.1" 404 506 "http://jeremywbarr.com/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36"
+73.119.118.74 - - [06/Nov/2018:03:08:11 +0000] "GET / HTTP/1.1" 200 308 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36"
+73.119.118.74 - - [06/Nov/2018:03:08:50 +0000] "GET / HTTP/1.1" 200 308 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36"
+73.119.118.74 - - [06/Nov/2018:03:08:53 +0000] "GET /favicon.ico HTTP/1.1" 404 506 "http://jeremywbarr.com/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36"
+73.119.118.74 - - [06/Nov/2018:03:22:38 +0000] "GET / HTTP/1.1" 304 180 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36"
